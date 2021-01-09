@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-09T16:19:10.647Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ISw-571KA-LanhXDD5_-" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-09T16:24:07.395Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="8ZwlpPVVcXUKDeWuWYd-" version="14.1.8" type="github">
   <diagram id="06IiAXgA8cgDI_Lxp7t8" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,13 +14,13 @@
           <mxGeometry x="180" y="410" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MXvkSPdAwNo0PrRt8lIc-4" value="Réserver une chambre d&#39;hôtel" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="240" width="140" height="70" as="geometry" />
+          <mxGeometry x="370" y="250" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MXvkSPdAwNo0PrRt8lIc-5" value="Réserver un taxi" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="370" width="140" height="70" as="geometry" />
+          <mxGeometry x="450" y="360" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MXvkSPdAwNo0PrRt8lIc-6" value="Réserver un billet de train" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="490" width="140" height="70" as="geometry" />
+          <mxGeometry x="460" y="500" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MXvkSPdAwNo0PrRt8lIc-7" value="Etablir une facture détaillée" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="570" width="140" height="70" as="geometry" />
